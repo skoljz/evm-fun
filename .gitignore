@@ -1,0 +1,16 @@
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+cache/
+artifacts/
+typechain-types/
+testnet-deploy.ts
+
+.env
+.vscode/
+.idea/
+
+
