@@ -12,9 +12,11 @@ npm install
 
 ## Environment Variables
 
-Add `.env` with above envs
+Add `.env` with above envs for deploy
 ```
 UNISWAP_ROUTER=uniswap_router_address
+PRIVATE_KEY=your_private_key_without_0x
+
 ```
 
 ## Deployment
